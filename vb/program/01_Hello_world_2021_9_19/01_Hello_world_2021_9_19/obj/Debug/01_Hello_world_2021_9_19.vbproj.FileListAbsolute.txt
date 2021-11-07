@@ -1,0 +1,13 @@
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\01_Hello_world_2021_9_19.vbproj.AssemblyReference.cache
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\01_Hello_world_2021_9_19.vbproj.SuggestedBindingRedirects.cache
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\_01_Hello_world_2021_9_19.Form1.resources
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\_01_Hello_world_2021_9_19.Resources.resources
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\01_Hello_world_2021_9_19.vbproj.GenerateResource.cache
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\01_Hello_world_2021_9_19.vbproj.CoreCompileInputs.cache
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\bin\Debug\01_Hello_world_2021_9_19.exe.config
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\bin\Debug\01_Hello_world_2021_9_19.exe
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\bin\Debug\01_Hello_world_2021_9_19.pdb
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\bin\Debug\01_Hello_world_2021_9_19.xml
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\01_Hello_world_2021_9_19.exe
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\01_Hello_world_2021_9_19.xml
+E:\Users\227307\source\repos\01_Hello_world_2021_9_19\01_Hello_world_2021_9_19\obj\Debug\01_Hello_world_2021_9_19.pdb

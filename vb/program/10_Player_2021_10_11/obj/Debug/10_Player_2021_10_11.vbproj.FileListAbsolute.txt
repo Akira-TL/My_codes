@@ -1,0 +1,13 @@
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\bin\Debug\10_Player_2021_10_11.exe.config
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\bin\Debug\10_Player_2021_10_11.exe
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\bin\Debug\10_Player_2021_10_11.pdb
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\bin\Debug\10_Player_2021_10_11.xml
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\10_Player_2021_10_11.vbproj.AssemblyReference.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\10_Player_2021_10_11.vbproj.SuggestedBindingRedirects.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\_10_Player_2021_10_11.Form1.resources
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\_10_Player_2021_10_11.Resources.resources
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\10_Player_2021_10_11.vbproj.GenerateResource.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\10_Player_2021_10_11.vbproj.CoreCompileInputs.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\10_Player_2021_10_11.exe
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\10_Player_2021_10_11.xml
+F:\document\OneDrive - 南京农业大学\code\vb\program\10_Player_2021_10_11\obj\Debug\10_Player_2021_10_11.pdb

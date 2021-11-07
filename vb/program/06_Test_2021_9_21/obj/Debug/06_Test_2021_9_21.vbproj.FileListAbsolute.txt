@@ -1,0 +1,24 @@
+E:\Users\227307\source\repos\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.vbproj.AssemblyReference.cache
+E:\Users\227307\source\repos\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.vbproj.SuggestedBindingRedirects.cache
+E:\Users\227307\source\repos\06_Test_2021_9_21\obj\Debug\_06_Test_2021_9_21.Resources.resources
+E:\Users\227307\source\repos\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.vbproj.GenerateResource.cache
+E:\Users\227307\source\repos\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.vbproj.CoreCompileInputs.cache
+E:\Users\227307\source\repos\06_Test_2021_9_21\bin\Debug\06_Test_2021_9_21.exe.config
+E:\Users\227307\source\repos\06_Test_2021_9_21\bin\Debug\06_Test_2021_9_21.exe
+E:\Users\227307\source\repos\06_Test_2021_9_21\bin\Debug\06_Test_2021_9_21.pdb
+E:\Users\227307\source\repos\06_Test_2021_9_21\bin\Debug\06_Test_2021_9_21.xml
+E:\Users\227307\source\repos\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.exe
+E:\Users\227307\source\repos\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.xml
+E:\Users\227307\source\repos\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.pdb
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\bin\Debug\06_Test_2021_9_21.exe.config
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\bin\Debug\06_Test_2021_9_21.exe
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\bin\Debug\06_Test_2021_9_21.pdb
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\bin\Debug\06_Test_2021_9_21.xml
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.vbproj.AssemblyReference.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.vbproj.SuggestedBindingRedirects.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\obj\Debug\_06_Test_2021_9_21.Resources.resources
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.vbproj.GenerateResource.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.vbproj.CoreCompileInputs.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.exe
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.xml
+F:\document\OneDrive - 南京农业大学\code\vb\program\06_Test_2021_9_21\obj\Debug\06_Test_2021_9_21.pdb

@@ -1,0 +1,13 @@
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\07_Shop_2021_10_7.vbproj.AssemblyReference.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\07_Shop_2021_10_7.vbproj.SuggestedBindingRedirects.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\_07_Shop_2021_10_7.Form1.resources
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\_07_Shop_2021_10_7.Resources.resources
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\07_Shop_2021_10_7.vbproj.GenerateResource.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\07_Shop_2021_10_7.vbproj.CoreCompileInputs.cache
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\bin\Debug\07_Shop_2021_10_7.exe.config
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\bin\Debug\07_Shop_2021_10_7.exe
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\bin\Debug\07_Shop_2021_10_7.pdb
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\bin\Debug\07_Shop_2021_10_7.xml
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\07_Shop_2021_10_7.exe
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\07_Shop_2021_10_7.xml
+F:\document\OneDrive - 南京农业大学\code\vb\program\07_Shop_2021_10_7\obj\Debug\07_Shop_2021_10_7.pdb

@@ -1,0 +1,15 @@
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\02_whatsyourname_2021_9_19.vbproj.AssemblyReference.cache
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\02_whatsyourname_2021_9_19.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\02_whatsyourname_2021_9_19.AssemblyInfoInputs.cache
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\02_whatsyourname_2021_9_19.AssemblyInfo.vb
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\02_whatsyourname_2021_9_19.vbproj.CoreCompileInputs.cache
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\bin\Debug\net6.0\02_whatsyourname_2021_9_19.exe
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\bin\Debug\net6.0\02_whatsyourname_2021_9_19.deps.json
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\bin\Debug\net6.0\02_whatsyourname_2021_9_19.runtimeconfig.json
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\bin\Debug\net6.0\02_whatsyourname_2021_9_19.dll
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\bin\Debug\net6.0\ref\02_whatsyourname_2021_9_19.dll
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\bin\Debug\net6.0\02_whatsyourname_2021_9_19.pdb
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\02_whatsyourname_2021_9_19.dll
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\ref\02_whatsyourname_2021_9_19.dll
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\02_whatsyourname_2021_9_19.pdb
+E:\Users\227307\source\repos\02_whatsyourname_2021_9_19\obj\Debug\net6.0\02_whatsyourname_2021_9_19.genruntimeconfig.cache

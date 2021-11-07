@@ -1,0 +1,12 @@
+E:\Users\227307\source\repos\05_test_2021_9_21\bin\Debug\05_test_2021_9_21.exe.config
+E:\Users\227307\source\repos\05_test_2021_9_21\bin\Debug\05_test_2021_9_21.exe
+E:\Users\227307\source\repos\05_test_2021_9_21\bin\Debug\05_test_2021_9_21.pdb
+E:\Users\227307\source\repos\05_test_2021_9_21\bin\Debug\05_test_2021_9_21.xml
+E:\Users\227307\source\repos\05_test_2021_9_21\obj\Debug\05_test_2021_9_21.vbproj.AssemblyReference.cache
+E:\Users\227307\source\repos\05_test_2021_9_21\obj\Debug\05_test_2021_9_21.vbproj.SuggestedBindingRedirects.cache
+E:\Users\227307\source\repos\05_test_2021_9_21\obj\Debug\_05_test_2021_9_21.Resources.resources
+E:\Users\227307\source\repos\05_test_2021_9_21\obj\Debug\05_test_2021_9_21.vbproj.GenerateResource.cache
+E:\Users\227307\source\repos\05_test_2021_9_21\obj\Debug\05_test_2021_9_21.vbproj.CoreCompileInputs.cache
+E:\Users\227307\source\repos\05_test_2021_9_21\obj\Debug\05_test_2021_9_21.exe
+E:\Users\227307\source\repos\05_test_2021_9_21\obj\Debug\05_test_2021_9_21.xml
+E:\Users\227307\source\repos\05_test_2021_9_21\obj\Debug\05_test_2021_9_21.pdb
