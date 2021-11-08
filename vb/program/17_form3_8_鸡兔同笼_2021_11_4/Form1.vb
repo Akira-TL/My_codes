@@ -67,7 +67,7 @@
         x = num
         total = a * x + b * y '总个数，不难理解
         Do While total <= feet '判断每次计算完是不是满足题目要求，满足了就跳出循环
-            If total Mod 2.0! = 0 Or total <= 0 Or num <= 0 Then
+            If total Mod 2 <> 0 Or total <= 0 Or num <= 0 Then
                 Exit Do
             End If
             total = a * x + b * y
