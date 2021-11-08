@@ -60,13 +60,13 @@
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        Dim total, x, y, a, b, i As Integer 'rom是数组，暂时没学，可以当他是个存储数字的东西就行了 其他的部分我会在下面挨个写作用
+        Dim total, x, y, a, b, i As Integer '部分我会在下面挨个写作用
         a = 2 'a为鸡
         b = 4 'b为兔
         i = 1
         x = num
         total = a * x + b * y '总个数，不难理解
-        Do While total <= feet '判断每次计算完是不是满足题目要求，满足了就跳出循环
+        Do While total < feet '判断每次计算完是不是满足题目要求，满足了就跳出循环
             If total Mod 2 <> 0 Or total <= 0 Or num <= 0 Then
                 Exit Do
             End If
@@ -81,7 +81,7 @@
             x -= 1
         Loop
         If i = 0 Then
-            Label1.Text = Label1.Text & "鸡有" & x & "只，兔有" & y & "只"
+            Label1.Text = "鸡有" & x & "只，兔有" & y & "只"
         Else
             Label1.Text = "没有对应解"
         End If
