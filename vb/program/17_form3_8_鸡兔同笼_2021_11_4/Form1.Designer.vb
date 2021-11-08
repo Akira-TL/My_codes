@@ -25,12 +25,14 @@ Partial Class Form1
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("黑体", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(134, Byte))
-        Me.Button1.Location = New System.Drawing.Point(160, 297)
+        Me.Button1.Location = New System.Drawing.Point(55, 297)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(140, 63)
         Me.Button1.TabIndex = 0
@@ -40,7 +42,7 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("黑体", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(134, Byte))
-        Me.Button2.Location = New System.Drawing.Point(490, 297)
+        Me.Button2.Location = New System.Drawing.Point(249, 297)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(140, 63)
         Me.Button2.TabIndex = 1
@@ -50,19 +52,41 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("黑体", 10.5!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(134, Byte))
-        Me.Label1.Location = New System.Drawing.Point(157, 29)
+        Me.Label1.Font = New System.Drawing.Font("黑体", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(134, Byte))
+        Me.Label1.Location = New System.Drawing.Point(49, 138)
         Me.Label1.Name = "Label1"
         Me.Label1.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.Label1.Size = New System.Drawing.Size(49, 14)
+        Me.Label1.Size = New System.Drawing.Size(111, 33)
         Me.Label1.TabIndex = 2
         Me.Label1.Text = "Label1"
+        '
+        'Button3
+        '
+        Me.Button3.Font = New System.Drawing.Font("黑体", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(134, Byte))
+        Me.Button3.Location = New System.Drawing.Point(444, 297)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(140, 63)
+        Me.Button3.TabIndex = 3
+        Me.Button3.Text = "Button3"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
+        'Button4
+        '
+        Me.Button4.Font = New System.Drawing.Font("黑体", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(134, Byte))
+        Me.Button4.Location = New System.Drawing.Point(634, 297)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(140, 63)
+        Me.Button4.TabIndex = 4
+        Me.Button4.Text = "Button4"
+        Me.Button4.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Button4)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
@@ -76,4 +100,6 @@ Partial Class Form1
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
     Friend WithEvents Label1 As Label
+    Friend WithEvents Button3 As Button
+    Friend WithEvents Button4 As Button
 End Class
