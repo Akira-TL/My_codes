@@ -1,0 +1,14 @@
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\22_form4_3_进阶_2021_11_22.vbproj.AssemblyReference.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\22_form4_3_进阶_2021_11_22.vbproj.SuggestedBindingRedirects.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\_22_form4_3_进阶_2021_11_22.Form1.resources
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\_22_form4_3_进阶_2021_11_22.Form2.resources
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\_22_form4_3_进阶_2021_11_22.Resources.resources
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\22_form4_3_进阶_2021_11_22.vbproj.GenerateResource.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\22_form4_3_进阶_2021_11_22.vbproj.CoreCompileInputs.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\bin\Debug\22_form4_3_进阶_2021_11_22.exe.config
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\bin\Debug\22_form4_3_进阶_2021_11_22.exe
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\bin\Debug\22_form4_3_进阶_2021_11_22.pdb
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\bin\Debug\22_form4_3_进阶_2021_11_22.xml
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\22_form4_3_进阶_2021_11_22.exe
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\22_form4_3_进阶_2021_11_22.xml
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\22_form4_3_2021_11_22\obj\Debug\22_form4_3_进阶_2021_11_22.pdb

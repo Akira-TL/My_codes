@@ -46,6 +46,7 @@
         Label1.Text = Now.Year
         Label3.Text = Now.Month
         Label5.Text = Now.Day
+        Label5.Text = Now.Day
         Label7.Text = Format(Now, "dddd")
         T = DateTime.Now.ToString("HH:mm:ss")
         leftf = 1
