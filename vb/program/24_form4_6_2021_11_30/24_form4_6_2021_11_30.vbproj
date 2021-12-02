@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0138C3B2-FE67-4E00-ACA2-DEDC261DFCF4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>_23_form4_6_2021_11_30.My.MyApplication</StartupObject>
-    <RootNamespace>_23_form4_6_2021_11_30</RootNamespace>
-    <AssemblyName>23_form4_6_2021_11_30</AssemblyName>
+    <StartupObject>_24_form4_6_2021_11_30.My.MyApplication</StartupObject>
+    <RootNamespace>_24_form4_6_2021_11_30</RootNamespace>
+    <AssemblyName>24_form4_6_2021_11_30</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>23_form4_6_2021_11_30.xml</DocumentationFile>
+    <DocumentationFile>24_form4_6_2021_11_30.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>23_form4_6_2021_11_30.xml</DocumentationFile>
+    <DocumentationFile>24_form4_6_2021_11_30.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -84,6 +84,7 @@
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
