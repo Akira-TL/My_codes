@@ -29,7 +29,7 @@
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         End
     End Sub
-    Private Function Factorial(num As Double)
+    Private Function Factorial(num As Double) As Integer
         Dim sum, n As Double
         sum = 1
         n = 1
@@ -40,7 +40,7 @@
         Factorial = sum
         'n = 1
     End Function
-    Private Function Abs(num As Double)
+    Private Function Abs(num As Double) As Integer
         If num < 0 Then
             num = -num
         End If

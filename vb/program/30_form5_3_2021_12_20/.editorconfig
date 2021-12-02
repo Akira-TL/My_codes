@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC42105: 函数没有在所有代码路径上返回值
+dotnet_diagnostic.BC42105.severity = none
