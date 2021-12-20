@@ -1,0 +1,13 @@
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\bin\Debug\33_form5_6_2021_12_20.exe.config
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\bin\Debug\33_form5_6_2021_12_20.exe
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\bin\Debug\33_form5_6_2021_12_20.pdb
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\bin\Debug\33_form5_6_2021_12_20.xml
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\33_form5_6_2021_12_20.vbproj.AssemblyReference.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\33_form5_6_2021_12_20.vbproj.SuggestedBindingRedirects.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\_33_form5_6_2021_12_20.Form1.resources
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\_33_form5_6_2021_12_20.Resources.resources
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\33_form5_6_2021_12_20.vbproj.GenerateResource.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\33_form5_6_2021_12_20.vbproj.CoreCompileInputs.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\33_form5_6_2021_12_20.exe
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\33_form5_6_2021_12_20.xml
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\33_form5_6_2021_12_20\obj\Debug\33_form5_6_2021_12_20.pdb
