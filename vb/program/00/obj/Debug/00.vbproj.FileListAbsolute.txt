@@ -10,3 +10,4 @@ F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00\obj\Debug\00.vb
 F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00\obj\Debug\00.exe
 F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00\obj\Debug\00.xml
 F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00\obj\Debug\00.pdb
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00\obj\Debug\_00.Form1.resources

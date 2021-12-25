@@ -20,7 +20,7 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Dim fund As Integer, c As Boolean
+        Dim found As Integer, c As Boolean
         If Not output Then '保证不会重复输出
             TextBox1.Text = TextBox1.Text & vbCrLf & "排序后的数列为："
             For i = 0 To n - 1 '重排数组
@@ -34,12 +34,12 @@
                 TextBox1.Text = TextBox1.Text & " " & a(i)
             Next
         End If
-        fund = Val(InputBox("请输入要查找的值：", "查找", "例:23")) '输入查找的数
-        c = find(fund, a)
+        found = Val(InputBox("请输入要查找的值：", "查找", "例:23")) '输入查找的数
+        c = find(found, a)
         If c Then
-            TextBox1.Text = TextBox1.Text & vbCrLf & "要查找的值" & fund & "存在"
+            TextBox1.Text = TextBox1.Text & vbCrLf & "要查找的值" & found & "存在"
         Else
-            TextBox1.Text = TextBox1.Text & vbCrLf & "要查找的值" & fund & "不存在"
+            TextBox1.Text = TextBox1.Text & vbCrLf & "要查找的值" & found & "不存在"
         End If
         output = True
     End Sub
