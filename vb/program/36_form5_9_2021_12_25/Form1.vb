@@ -10,7 +10,7 @@
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         For i = 0 To 300
             a(i) = True
-        Next
+        Next '初始化数组全为true
         TextBox1.Text = "100~300的所有素数：" & vbCrLf
         For i = 2 To 1000
             If a(i) = True Then
@@ -18,12 +18,12 @@
                 Do Until i * cnt > 1000
                     a(i * cnt) = False
                     cnt += 1
-                Loop
+                Loop '将n倍的i的值改成false
                 If i >= 100 And i <= 300 Then
                     TextBox1.Text = TextBox1.Text & i & vbTab
-                End If
-            End If
-        Next
+                End If '输出100~300的素数
+            End If '仅将素数（值为true）的进入循环
+        Next '倒数会大于300，最大不超过992,1000好写好看而已，保证倒数判断能够确定是否为素数
         TextBox1.Text = TextBox1.Text & vbCrLf
         'For i = 1 To 300
         '    TextBox1.Text = TextBox1.Text & a(i) & vbTab
@@ -35,12 +35,12 @@
         For i = 100 To 300
             If a(i) Then
                 n = Val(StrReverse(i))
-            End If
+            End If 'strreverse为倒置文本，n计数
             If a(n) Then
                 TextBox1.Text = TextBox1.Text & i & vbTab
-            End If
-        Next
-        TextBox1.Text = TextBox1.Text & vbCrLf
+            End If '输出
+        Next '仅判断100~300的逆序为素数
+        TextBox1.Text = TextBox1.Text & vbCrLf '习惯而已，不必在意
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
