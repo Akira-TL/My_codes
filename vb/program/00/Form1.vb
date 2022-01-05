@@ -1,6 +1,5 @@
 ﻿Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
     End Sub
     Dim a(-1) As Integer, i As Integer, j As Integer, count As Integer
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -17,7 +16,6 @@
                 a(count) = i
                 TextBox1.Text = TextBox1.Text & Str(a(count))
                 If count Mod 5 = 0 Then TextBox1.Text = TextBox1.Text & vbCrLf
-
             End If
         Next
         i = True
@@ -42,14 +40,10 @@
             End If
         Next
     End Sub
-
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         End
     End Sub
-
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         TextBox1.Text = ""
     End Sub
-
-
 End Class

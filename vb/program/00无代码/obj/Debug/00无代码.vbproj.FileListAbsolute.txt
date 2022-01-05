@@ -1,0 +1,13 @@
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\bin\Debug\00无代码.exe.config
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\bin\Debug\00无代码.exe
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\bin\Debug\00无代码.pdb
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\bin\Debug\00无代码.xml
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\00无代码.vbproj.AssemblyReference.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\00无代码.vbproj.SuggestedBindingRedirects.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\_00无代码.Resources.resources
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\00无代码.vbproj.GenerateResource.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\00无代码.vbproj.CoreCompileInputs.cache
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\00无代码.exe
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\00无代码.xml
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\00无代码.pdb
+F:\document\OneDrive - 南京农业大学\My_codes\vb\program\00无代码\obj\Debug\_00无代码.Form1.resources
